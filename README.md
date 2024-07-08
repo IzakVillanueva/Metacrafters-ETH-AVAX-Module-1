@@ -15,7 +15,7 @@ This is a smart contract written in solidity that demonstrate the use of the fun
 ### Executing program
 
 * Once you are on the website, import the .sol there.
-* To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to whatever compatible version is written on the top of the .sol code, and then click on the "Compile HelloWorld.sol" button.
+* To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to whatever compatible version is written on the top of the .sol code, and then click on the "Compile ErrorHandling.sol" button.
 * Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyContract" contract from the dropdown menu, and then click on the "Deploy" button.
 * On the deployed contracts, you can see the functions included. There are three functions, testRequire, testAssert, and testRevert.
 * You may test the functions by adding any number for the user input.
